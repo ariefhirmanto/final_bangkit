@@ -1,6 +1,8 @@
 [![Build Status](https://api.travis-ci.com/IBM/tfjs-web-app.svg?branch=master)](https://travis-ci.com/IBM/tfjs-web-app)
 
-# What's Fresh & What's Rotten, Offline image classification web app
+# What's Fresh & What's Rotten, Offline image classification
+
+### By Arief Hirmanto, Christina, Fahmi Iman Alfarizki, Gusti Triandi Winata
 
 What's Fresh & What's Rotten is our way to solve problem about fruits classification whether it is rotten or it is fresh (safely can be eaten) using Deep Learning. We do simple CNN to expect some basic performance this simple CNN had in the dataset. Then we improved the model by adding Transfer Learning with ResNet50 as our baseline model.
 
